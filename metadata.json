@@ -1,0 +1,7 @@
+{
+  "name": "Virtuoso Tuner",
+  "description": "A professional-grade real-time guitar tuner with an AI-powered guitar technician assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
